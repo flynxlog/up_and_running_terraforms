@@ -2,3 +2,4 @@
 - create a personal token acesss from github and add it to github remote acees token
 
 - follow the git config and remote addition syntax
+- check the config 
